@@ -1,0 +1,49 @@
+video {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+    
+}
+
+.banner-container {
+    height: 100vh;
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.2);
+    object-fit: contain;
+}
+
+.banner-container > h1 {
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    margin-left: 50%;
+    color: aliceblue;
+    font-size:100px;
+}
+.banner-container > h2 {
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    margin-left: 50%;
+    color: aliceblue;
+    font-size:32px;
+    margin-top: 25px;
+    border-top: outset;
+
+}
+
+
+@media screen and (max-width: 960px) {
+    .banner-container > h2 {
+        font-size: 20px;
+    }
+
+}
+@media screen and (max-width: 960px) {
+    .banner-container > h1 {
+        font-size: 80px;
+    }
+
+}
+

@@ -1,0 +1,39 @@
+.support-section {
+    
+    background-color: white;
+    padding: 2rem;
+}
+
+.support-container{
+
+    display: flex;
+    flex-flow: column;
+    align-items: stretch;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.support-container > p {
+    border-left:2px solid skyblue ;
+    text-align: left;
+    font-size: 20px;
+}
+
+
+.support-container > h2 {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 720px){
+    .support-container > p {
+        font-size: 15px;
+    }
+    .support-container{
+       
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    
+}
+    

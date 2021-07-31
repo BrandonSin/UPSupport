@@ -1,38 +1,50 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Noto Sans JP', sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.home,
+.contact,
+.privacy,
+.support {
   display: flex;
-  flex-direction: column;
+  height: 30vh;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: 2rem;
 }
 
-.App-link {
-  color: #61dafb;
+.contact {
+  background: rgb(253,253,255);
+  background: linear-gradient(90deg, rgba(253,253,255,1) 0%, rgba(91,217,245,1) 36%, rgba(251,251,251,1) 66%, rgba(0,212,255,1) 100%);
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 50px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.support {
+  background: rgb(253,253,255);
+  background: linear-gradient(90deg, rgba(253,253,255,1) 0%, rgba(91,217,245,1) 27%, rgba(228,255,194,1) 57%, rgba(255,141,0,1) 100%);
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 50px;
+}
+
+.privacy {
+  background: rgb(253,253,255);
+  background: linear-gradient(90deg, rgba(253,253,255,1) 0%, rgba(91,217,245,1) 27%, rgba(228,255,194,1) 57%, rgba(255,141,0,1) 100%);
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 50px;
 }

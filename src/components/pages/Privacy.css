@@ -1,0 +1,17 @@
+.privacyContent {
+    margin: 5px 10% 5px 10%;
+}
+#privacyHeader {
+    border-bottom: 2px solid skyblue;
+    color: grey;
+}
+
+#privacyText {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+#privacySub {
+    font-size: 1.5rem;
+}
+/* font-family: 'Noto Sans JP', sans-serif; */

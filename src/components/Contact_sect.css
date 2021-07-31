@@ -1,0 +1,33 @@
+.contact-section {
+    
+    padding: 10rem;
+}
+
+.contact-container{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.contact-container > h2 {
+    text-align: center;
+    
+}
+
+
+.form-section {
+    background-color: azure;
+    margin: 0px 10% 10px 10%;
+}
+
+@media screen and (max-width: 760px){
+    .contact-container{
+        
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+}
+    
