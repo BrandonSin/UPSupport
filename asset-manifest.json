@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/UPSupport/static/css/main.45a142bb.chunk.css",
+    "main.js": "/UPSupport/static/js/main.4bae55e4.chunk.js",
+    "main.js.map": "/UPSupport/static/js/main.4bae55e4.chunk.js.map",
+    "runtime-main.js": "/UPSupport/static/js/runtime-main.701f037a.js",
+    "runtime-main.js.map": "/UPSupport/static/js/runtime-main.701f037a.js.map",
+    "static/css/2.4be38407.chunk.css": "/UPSupport/static/css/2.4be38407.chunk.css",
+    "static/js/2.18aca3ab.chunk.js": "/UPSupport/static/js/2.18aca3ab.chunk.js",
+    "static/js/2.18aca3ab.chunk.js.map": "/UPSupport/static/js/2.18aca3ab.chunk.js.map",
+    "static/js/3.42856720.chunk.js": "/UPSupport/static/js/3.42856720.chunk.js",
+    "static/js/3.42856720.chunk.js.map": "/UPSupport/static/js/3.42856720.chunk.js.map",
+    "index.html": "/UPSupport/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/UPSupport/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.45a142bb.chunk.css.map": "/UPSupport/static/css/main.45a142bb.chunk.css.map",
+    "static/js/2.18aca3ab.chunk.js.LICENSE.txt": "/UPSupport/static/js/2.18aca3ab.chunk.js.LICENSE.txt",
+    "static/media/AppIconSvg.c2e2ca32.svg": "/UPSupport/static/media/AppIconSvg.c2e2ca32.svg",
+    "static/media/UP.e61a9d43.mp4": "/UPSupport/static/media/UP.e61a9d43.mp4",
+    "static/media/app_store_badge.8c4986ee.svg": "/UPSupport/static/media/app_store_badge.8c4986ee.svg",
+    "static/media/google-play-badge.f902960a.png": "/UPSupport/static/media/google-play-badge.f902960a.png",
+    "static/media/logo.6ce24c58.svg": "/UPSupport/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.701f037a.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.18aca3ab.chunk.js",
+    "static/css/main.45a142bb.chunk.css",
+    "static/js/main.4bae55e4.chunk.js"
+  ]
+}
