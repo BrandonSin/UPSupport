@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/UPSupport/static/css/main.45a142bb.chunk.css",
-    "main.js": "/UPSupport/static/js/main.7d3f0bdc.chunk.js",
-    "main.js.map": "/UPSupport/static/js/main.7d3f0bdc.chunk.js.map",
+    "main.js": "/UPSupport/static/js/main.bddf51d8.chunk.js",
+    "main.js.map": "/UPSupport/static/js/main.bddf51d8.chunk.js.map",
     "runtime-main.js": "/UPSupport/static/js/runtime-main.701f037a.js",
     "runtime-main.js.map": "/UPSupport/static/js/runtime-main.701f037a.js.map",
     "static/css/2.4be38407.chunk.css": "/UPSupport/static/css/2.4be38407.chunk.css",
@@ -16,15 +16,16 @@
     "static/js/2.18aca3ab.chunk.js.LICENSE.txt": "/UPSupport/static/js/2.18aca3ab.chunk.js.LICENSE.txt",
     "static/media/AppIconSvg.c2e2ca32.svg": "/UPSupport/static/media/AppIconSvg.c2e2ca32.svg",
     "static/media/UP.e61a9d43.mp4": "/UPSupport/static/media/UP.e61a9d43.mp4",
-    "static/media/app_store_badge.8c4986ee.svg": "/UPSupport/static/media/app_store_badge.8c4986ee.svg",
-    "static/media/google-play-badge.f902960a.png": "/UPSupport/static/media/google-play-badge.f902960a.png",
-    "static/media/logo.6ce24c58.svg": "/UPSupport/static/media/logo.6ce24c58.svg"
+    "static/media/applebadge.85fe11ea.png": "/UPSupport/static/media/applebadge.85fe11ea.png",
+    "static/media/googlebadge.582d2211.png": "/UPSupport/static/media/googlebadge.582d2211.png",
+    "static/media/logo.6ce24c58.svg": "/UPSupport/static/media/logo.6ce24c58.svg",
+    "static/media/showcase.c7fb75de.png": "/UPSupport/static/media/showcase.c7fb75de.png"
   },
   "entrypoints": [
     "static/js/runtime-main.701f037a.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.18aca3ab.chunk.js",
     "static/css/main.45a142bb.chunk.css",
-    "static/js/main.7d3f0bdc.chunk.js"
+    "static/js/main.bddf51d8.chunk.js"
   ]
 }
