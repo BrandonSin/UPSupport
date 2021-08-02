@@ -11,7 +11,7 @@ function Navbar() {
         <>
             <nav className="navbar">
                 <div className="navbar-container">
-                    <Link to="/" className="navbar-logo" onClick={mobileMenu}>
+                    <Link to="/UPSupport" className="navbar-logo" onClick={mobileMenu}>
                         UP <img className="upLogo" src={UpLogo} alt="UP Icon"/>
                     </Link>
                     <div className='menu-icon' onClick={togglehandler}>
@@ -19,7 +19,7 @@ function Navbar() {
                     </div>
                     <ul className={toggle ? 'nav-menu active' : 'nav-menu'}>
                         <li className='nav-item'>
-                            <Link to="/" className='nav-links' onClick={mobileMenu}>
+                            <Link to="/UPSupport" className='nav-links' onClick={mobileMenu}>
                                 Home
                             </Link>
                         </li>

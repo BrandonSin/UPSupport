@@ -1,7 +1,7 @@
 import React from 'react';
-import './Support_sect.css';
+import './SupportSection.css';
 
-function Support_sect (){
+function SupportSection (){
     return(
         <div className="support-section">
             <div className="support-container">
@@ -44,4 +44,4 @@ function Support_sect (){
     );
 }
 
-export default Support_sect;
+export default SupportSection;

@@ -1,10 +1,10 @@
 import React, {useState} from 'react';
-import './Contact_sect.css';
+import './ContactSection.css';
 import emailjs from "emailjs-com";
 import { Form, Button, FloatingLabel, Modal, ModalBody } from 'react-bootstrap';
 
 
-function Contact_sect (){
+function ContactSection (){
 
     const [show, setShow] = useState(false);
 
@@ -53,7 +53,7 @@ function Contact_sect (){
         <div className="contact-section">
             <div className="contact-container">
             <h2>If you have any questions and would like to reach out to us.<br></br>Feel free
-            to send us an email at <a href="mailto:djadevoe@ucalgary.ca">djadevoe@ucalgary.ca</a>
+            to send us an email at <a  href="mailto:djadevoe@ucalgary.ca" style={{textDecoration: "none", color: "grey"}}>djadevoe@ucalgary.ca</a>
             </h2>
             </div>
             
@@ -105,4 +105,4 @@ function Contact_sect (){
     );
 }
 
-export default Contact_sect;
+export default ContactSection;
