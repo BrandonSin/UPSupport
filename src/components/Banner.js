@@ -8,7 +8,7 @@ export default function Banner() {
         <div className='banner-container'>
             <video src={bannerVideo} autoPlay loop muted />
             <h1>UP</h1>
-            <h2>Emotions</h2>
+            <h2>Emotion</h2>
             <h2>Stability</h2>
             <h2>Understanding</h2>            
         </div>
