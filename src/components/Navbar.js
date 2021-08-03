@@ -12,7 +12,7 @@ function Navbar() {
             <nav className="navbar">
                 <div className="navbar-container">
                     <Link to="/" className="navbar-logo" onClick={mobileMenu}>
-                        UP <img className="upLogo" src={UpLogo} alt="UP Icon"/>
+                         <img className="upLogo" src={UpLogo} alt="UP Icon"/>
                     </Link>
                     <div className='menu-icon' onClick={togglehandler}>
                         <i className={toggle ? 'fas fa-times' : 'fas fa-bars'} />
