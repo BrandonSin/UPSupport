@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import { Link } from 'react-router-dom'
-import UpLogo from '../images/AppLogoTransparent';
+import UpLogo from '../images/AppLogoTransparent.png';
 import './Navbar.css';
 
 function Navbar() {
