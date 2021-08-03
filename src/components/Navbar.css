@@ -1,8 +1,9 @@
 .upLogo{
-    width: 5vw;
-    min-width: 50px;
-    max-width: 70px;
-}
+    width: 70px;
+    position: absolute;
+    margin: 5px 5px 5px 5px;
+    top: 5px;
+ }
 .navbar {
     background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
     height: 80px;
@@ -13,6 +14,7 @@
     position: sticky !important;
     top: 0;
     z-index: 999;
+    height: auto;
   }
   
   .navbar-container {
