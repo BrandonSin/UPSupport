@@ -24,7 +24,9 @@ function About(){
                 with each other. UP app is available and completely free on Google play store and Apple store.</p>
         </div> 
         <div className="Store_section">
-            <img className="storeIcon" src={playStoreIcon} alt="play store icon"></img>
+            <a href="https://play.google.com/store/apps/details?id=com.goodbarber.upapp">
+                <img className="storeIcon" src={playStoreIcon} alt="play store icon"></img>
+            </a>
             <img className="storeIcon" src={appleStoreIcon} alt="apple store icon"></img>
         </div>  
             
