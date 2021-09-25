@@ -27,7 +27,9 @@ function About(){
             <a href="https://play.google.com/store/apps/details?id=com.goodbarber.upapp">
                 <img className="storeIcon" src={playStoreIcon} alt="play store icon"></img>
             </a>
-            <img className="storeIcon" src={appleStoreIcon} alt="apple store icon"></img>
+            <a href="https://apps.apple.com/ca/app/the-unified-protocol/id1586125376">
+                <img className="storeIcon" src={appleStoreIcon} alt="apple store icon"></img>
+            </a>
         </div>  
             
         </div>
