@@ -53,7 +53,7 @@ function ContactSection (){
         <div className="contact-section">
             <div className="contact-container">
             <h2>If you have any questions and would like to reach out to us.<br></br>Feel free
-            to send us an email at <a  href="mailto:djadevoe@ucalgary.ca" style={{textDecoration: "none", color: "grey"}}>djadevoe@ucalgary.ca</a>
+            to send us an email at <a  href="mailto:david.lindenbach@ucalgary.ca" style={{textDecoration: "none", color: "grey"}}>david.lindenbach@ucalgary.ca</a>
             </h2>
             </div>
             

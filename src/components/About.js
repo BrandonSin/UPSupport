@@ -16,12 +16,12 @@ function About(){
                     help you address a variety of different symptoms and problems.
                     <br></br>
                     Go through a series of modules, learn about ways to understand yourself and complete homework to further your understanding.
-                    UP app is available on Google Play and App store.
+                    UP app is available on Google Play and App store. A requied account is needed to be set up in oder to use this application.
                 </p>
                 <img src={showcase} style={{width: "100%", maxWidth: "1080px", marginTop: "50px", marginBottom: "50px"}} alt="MobileScreenshots"></img>
 
                 <p style={{marginBottom: "50px"}}>Group discussions or direct messaging are all available for users to learn and understand their emotions
-                with each other. UP app is available and completely free on Google play store and Apple store.</p>
+                with each other. UP app is available and completely free on Google play store and Apple store. A requied account is needed to be set up in oder to use this application.</p>
         </div> 
         <div className="Store_section">
             <a href="https://play.google.com/store/apps/details?id=com.goodbarber.upapp">
